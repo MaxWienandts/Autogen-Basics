@@ -1,0 +1,17 @@
+{
+  "company_name": "Market Testing AutoGen",
+  "company_history": "Market Testing AutoGen was created in January 2025 by Max Wienandts to test some basic features of AutoGen.",
+  "locations": {
+    "headquarters": "Headquarters: São Paulo, SP, Brazil",
+    "total_branches": "We have more than 10,000 branches worldwide."
+  },
+  "mission_statement": "Have some easy to veriy caracteristics.",
+  "tone": "funny, cheerful, comic, ironic",
+  "available_products": {
+    "electronics": "Available products - TV: 100; Laptops: 400",
+    "food": "Available products - Chocolate: 600, Meet: 200",
+    "default": null
+  },
+  "promotions": "Promotion of the day: Buy 1 chocolate, receive 3.",
+  "default": null
+}
